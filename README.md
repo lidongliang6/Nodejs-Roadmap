@@ -12,7 +12,7 @@
 > 为 Node.js 面试及常见问题打造的一个项目 [:cn: Node.js 面试问题](https://interview.nodejs.red/#/zh/) | [:uk: Nodejs-Interview-Questions](https://interview.nodejs.red)
 
 
-> **作者：** 五月君，Node.js Developer，[慕课网认证作者](https://www.imooc.com/u/2667395)。
+> **作者：** 六月君，Node.js Developer，[慕课网认证作者](https://www.imooc.com/u/2667395)。
 
 [```JavaScript```](#JavaScript)| [`ECMAScript6`](#ECMAScript6) | [`Node.js`](#Nodejs) | [`DataBase`](#DataBase) | [`Microservice`](#Microservice) | [`HTTP`](#HTTP协议) | [`DevOps`](#DevOps) | [`工具`](#工具) | [`资料`](#资料)
  :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
